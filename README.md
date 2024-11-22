@@ -53,8 +53,19 @@ AdvPatch-1K
 
 ## 📊 Example Results
 1. **Example images from AdvPatch-1K**
-![本地图片](example_dataset.jpg)
-3. **Adversarial T-shirts**
-4. **Some adversarial patches**
-5. **Test results on yolov5**
 
+<p align="center">
+  <img src="example_dataset.jpg" width="480px" alt="AdvPatch" title="AdvPatch" />
+</p>
+
+2. **Adversarial T-shirts**
+
+<p align="center">
+  <img src="T-shirts.jpg" width="480px" alt="tshirts" title="tshirts" />
+</p>
+
+3. **Test results on yolov5**
+
+<p align="center">
+  <img src="test.png" width="480px" alt="test" title="test" />
+</p>
