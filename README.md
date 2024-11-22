@@ -49,5 +49,5 @@ AdvPatch-1K
     ...
 ```
 ## ⚙️ Download
-[Google](https://www.google.com "点击访问 Google")
+[Download AdvPatch-1K](https://huggingface.co/datasets/xingjunm/AdvPatch-1K)
 
