@@ -24,9 +24,9 @@ Using **DiffPatch**, we designed **9 adversarial patches** and printed them on T
 2. **Annotation Files**
 
 * YOLO-style annotation format for object detection.
-* Contains bounding box coordinates (including persons and adversarial patch).
+* Contains bounding box coordinates (including persons and adversarial patch). The person annotations correspond to the labels folder, and adversarial patch annotations correspond to the adv_labels folder.
 
-3. File Structure
+3. **File Structure**
 
 ```
 AdvPatch-1K
