@@ -54,7 +54,7 @@ AdvPatch-1K
 ## 📊 Example Results
 1. **Example images from AdvPatch-1K**
 <p align="center">
-< img src="./example_dataset.jpg"  width="480px" height="290px" alt="AdvPatch-1K" title="AdvPatch-1K" align="center"></img>
+< img src="example_dataset.jpg"  width="480px" height="290px" alt="AdvPatch-1K" title="AdvPatch-1K" align="center"></img>
 </p >
 3. **Adversarial T-shirts**
 4. **Some adversarial patches**
