@@ -51,3 +51,10 @@ AdvPatch-1K
 ## ⚙️ Download
 [Download AdvPatch-1K](https://huggingface.co/datasets/xingjunm/AdvPatch-1K)
 
+## 📊 Example Results
+1. **Example images from AdvPatch-1K**
+![本地图片](example.jpg)
+3. **Adversarial T-shirts**
+4. **Some adversarial patches**
+5. **Test results on yolov5**
+
