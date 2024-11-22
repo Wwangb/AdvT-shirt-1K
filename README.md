@@ -64,7 +64,7 @@ AdvPatch-1K
   <img src="T-shirts.jpg" width="480px" alt="tshirts" title="tshirts" />
 </p>
 
-3. **Test results on yolov5**
+3. **Test results on YOLOv5**
 
 <p align="center">
   <img src="test.png" width="480px" alt="test" title="test" />
