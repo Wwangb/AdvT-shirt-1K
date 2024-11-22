@@ -23,8 +23,8 @@ Using **DiffPatch**, we designed **9 adversarial patches** and printed them on T
 
 2. **Annotation Files**
 
-* YOLO-style annotation format for object detection (including ground truth and predicted results).
-* Contains bounding box coordinates (including persons and adversarial patch), object class labels, and model detection outcomes.
+* YOLO-style annotation format for object detection.
+* Contains bounding box coordinates (including persons and adversarial patch).
 
 3. File Structure
 
@@ -34,13 +34,16 @@ AdvPatch-1K
         |--images
             |--0001.jpg
             |--0002.jpg
+            ...
         |--labels
             |--0001.txt
             |--0002.txt
+            ...
         |--adv_labels
             |--0001.txt
-            |--0002.txt      
-    |--1_person
+            |--0002.txt
+            ...     
+    |--2_persons
         ...
     ...
 ```
