@@ -1,4 +1,4 @@
-# AdvPatch-1K: An Adversarial T-shirt Dataset for Physical-world Patch Attack Evaluation
+# AdvPatch-1K: A Physical-world Adversarial T-shirt Dataset for Adversarial Robustness Evaluation
 
 ## 📌 Dataset Description
 
