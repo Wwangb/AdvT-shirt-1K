@@ -69,3 +69,23 @@ AdvPatch-1K
 <p align="center">
   <img src="test.png" width="480px" alt="test" title="test" />
 </p>
+
+* *Left*: The proportion of images with different numbers of persons in AdvPatch-1K.
+* *Right*: The detection performance of YOLOv5s on AdvPatch-1K under different confidence thresholds.
+
+## 📜 Citation
+If you use this dataset in your research, please cite it as follows:
+
+```
+xxxxx
+xxxxx
+xxxxx
+```
+
+## 📧 Contact Us
+For any questions or suggestions, feel free to contact us:
+
+* Email: xingjunma.com
+* GitHub Issues: Submit questions or suggestions via the Issues tab
+
+## 🌟 Please Star and Fork!
