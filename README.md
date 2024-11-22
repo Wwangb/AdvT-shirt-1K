@@ -20,6 +20,7 @@ Using **DiffPatch**, we designed **9 adversarial patches** and printed them on T
 
 * Contains images of subjects wearing adversarial T-shirts.
 * Varied environments: indoor (laboratories, subway station), outdoor (sunlight, campus, shopping mall).
+* Including both individual and group (2 to 10+ persons) photos, stored in different folders.
 
 2. **Annotation Files**
 
