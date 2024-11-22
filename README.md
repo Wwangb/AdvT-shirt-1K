@@ -1,6 +1,6 @@
 # AdvPatch-1K: An Adversarial T-shirt Dataset for Physical-world Patch Attack Evaluation
 
-## 📌Dataset Description
+## 📌 Dataset Description
 #### 🎯 数据集特点
 #### 📂 数据集内容
 
@@ -10,5 +10,6 @@ The physical patches are generated using our novel patch framework, **Diffpatch*
 
 Using **DiffPatch**, we designed **9 adversarial patches** and printed them on T-shirts. We recruited **20 participants** (with ethics approval) to capture images in diverse indoor and outdoor, including laboratories, campus, cafeteria, subway station, and shopping mall. In total, we collected **1,131 images** into **AdvPatch-1K** dataset, including both individual and group (2 to 10+ persons) photos. The dataset is accompanied with detailed annotations of the person and patch locations (bounding boxes). Our dataset provides a valuable resource for advancing defense research against adversarial patch attacks.
 
+## 🎯 Key Features
 
 
