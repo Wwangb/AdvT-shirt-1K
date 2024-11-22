@@ -1,8 +1,6 @@
 # AdvPatch-1K: An Adversarial T-shirt Dataset for Physical-world Patch Attack Evaluation
 
 ## 📌 Dataset Description
-#### 🎯 数据集特点
-#### 📂 数据集内容
 
 **AdvPatch-1K** is specifically tailored for evaluating the robustness of the YOLOv5s object detection model against adversarial attacks in physical environments. By attaching adversarial patches to the surface of T-shirts, this dataset simulates real-world evasion attack scenarios that object detection models may encounter, providing researchers with an abundant collection of test samples and a benchmarking environment.
 
@@ -13,7 +11,24 @@ Using **DiffPatch**, we designed **9 adversarial patches** and printed them on T
 ## 🎯 Key Features
 
 * **Innovative Approach**: The dataset uniquely combines adversarial attacks with physical environments by applying adversarial patches to T-shirt surfaces, making it an effective tool for testing object detection models' resistance to evasion in real-world settings.
-Diverse Scenarios: It includes a variety of shooting conditions, lighting, backgrounds, angles, and movement states.
-Real-world Context: Designed to simulate dynamic wear and different environmental conditions, providing valuable insights into how adversarial attacks can affect detection accuracy.
-Compatible with Popular Detection Models: This dataset is tailored for testing models like YOLOv5, YOLOv7, Faster R-CNN, and more.
+* **Diverse Scenarios**: It includes a variety of shooting conditions, lighting, backgrounds, angles, and movement states.
+* **Real-world Context**: Designed to simulate dynamic wear and different environmental conditions, providing valuable insights into how adversarial attacks can affect detection accuracy.
+
+## 📂 Dataset Contents
+
+1. Image Data
+
+* Contains images of subjects wearing adversarial T-shirts.
+* Varied environments: indoor (laboratories, subway station), outdoor (sunlight, campus, shopping mall).
+
+2. Annotation Files
+
+YOLO-style annotation format for object detection (including ground truth and predicted results).
+Contains bounding box coordinates (including persons and adversarial patch), object class labels, and model detection outcomes.
+
+3. File Structure
+
+```
+
+```
 
