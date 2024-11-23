@@ -85,7 +85,7 @@ xxxxx
 ## 📧 Contact Us
 For any questions or suggestions, feel free to contact us:
 
-* Email: xingjunma.com
+* Email: [zhixiangwang22@m.fudan.edu.cn](mailto:zhixiangwang22@m.fudan.edu.cn)
 * GitHub Issues: Submit questions or suggestions via the Issues tab
 
 ## 🌟 Please Star and Fork!
