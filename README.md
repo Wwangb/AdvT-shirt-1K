@@ -48,7 +48,7 @@ AdvPatch-1K
         ...
     ...
 ```
-## ⚙️ Download
+## ⬇️ Download
 [Download AdvPatch-1K dataset](https://huggingface.co/datasets/xingjunm/AdvPatch-1K)
 
 ## 📊 Example Images
