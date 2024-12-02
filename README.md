@@ -51,7 +51,7 @@ AdvPatch-1K
 ## ⚙️ Download
 [Download AdvPatch-1K dataset](https://huggingface.co/datasets/xingjunm/AdvPatch-1K)
 
-## 📊 Example Results
+## 📊 Example Images
 1. **Example images from AdvPatch-1K**
 
 <p align="center">
@@ -73,7 +73,7 @@ AdvPatch-1K
 * *Left*: The proportion of images with different numbers of persons in AdvPatch-1K.
 * *Right*: The detection performance of YOLOv5s on AdvPatch-1K under different confidence thresholds.
 
-## 📜 Citation
+## 📜 Cite Us
 If you use this dataset in your research, please cite it as follows:
 
 ```
@@ -88,4 +88,4 @@ For any questions or suggestions, feel free to contact us:
 * Email: [zhixiangwang22@m.fudan.edu.cn](mailto:zhixiangwang22@m.fudan.edu.cn)
 * GitHub Issues: Submit questions or suggestions via the Issues tab
 
-## 🌟 Please Star and Fork!
+## 🌟 Welcome to star and fork the repo!
