@@ -1,6 +1,6 @@
 # AdvT-shirt-1K: A Physical-world Adversarial T-shirt Dataset for Adversarial Robustness Evaluation
 <p align="center">
-  <img src="dataset.png" width="480px" alt="AdvPatch" title="AdvPatch" />
+  <img src="dataset.png" width="480px" alt="AdvT-shirt" title="AdvT-shirt" />
 </p>
 
 ## 📌 Dataset Description
