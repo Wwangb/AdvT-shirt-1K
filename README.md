@@ -77,7 +77,7 @@ AdvT-shirt-1K
 * *Right*: The detection performance of YOLOv5s on AdvT-shirt-1K under different confidence thresholds.
 
 ## ⬇️ Download
-[Download AdvT-shirt-1K dataset](https://huggingface.co/datasets/xingjunm/AdvT-shirt-1K)
+[Download AdvT-shirt-1K dataset](https://huggingface.co/datasets/xingjunm/AdvT-shirt)
 
 ## 📜 Cite Us
 If you use this dataset in your research, please cite it as follows:
