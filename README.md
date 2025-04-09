@@ -83,9 +83,12 @@ AdvT-shirt-1K
 If you use this dataset in your research, please cite it as follows:
 
 ```
-xxxxx
-xxxxx
-xxxxx
+@article{wang2024diffpatch,
+  title={DiffPatch: Generating Customizable Adversarial Patches using Diffusion Models},
+  author={Wang, Zhixiang and Wang, Xiaosen and Wang, Bo and Chen, Siheng and Wang, Zhibo and Ma, Xingjun and Jiang, Yu-Gang},
+  journal={arXiv preprint arXiv:2412.01440},
+  year={2024}
+}
 ```
 
 ## 📧 Contact Us
