@@ -94,7 +94,7 @@ If you use this dataset in your research, please cite it as follows:
 ## 📧 Contact Us
 For any questions or suggestions, feel free to contact us:
 
-* Email: [click to email](mailto:zhixiangwang22@m.fudan.edu.cn)
+* Email: [click to email](mailto:xingjunma@fudan.edu.cn)
 * GitHub Issues: Submit questions or suggestions via the Issues tab
 
 ## 🌟 Welcome to star and fork the repo!
